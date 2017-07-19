@@ -1,0 +1,11 @@
+{
+  "name": "ex06_DBserver",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.13.1",
+    "express": "~4.13.0",
+    "leaflet-routing-machine": "^3.2.5",
+    "mongoose": "~4.0.6"
+  }
+}
